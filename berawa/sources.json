@@ -1,0 +1,74 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://hostalcampana.com/",
+ "read_at": "2026-10-29T01:08:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://hostalcampana.com/",
+   "sha256": "d5f29d5d03f5f5573e80d64f92b344cded491680e038fbf6fd4049e281500804",
+   "chars": 8952
+  },
+  {
+   "url": "https://hostalcampana.com/aviso-legal/",
+   "sha256": "adab0aa26899b2fab42bcb20a312c17a369838759cefc6fc252988bfb47ec0f6",
+   "chars": 4768
+  },
+  {
+   "url": "https://hostalcampana.com/contacto-hostal-la-campana/",
+   "sha256": "ecb56fb24b02b870139ac6ec920fa555129eb00ec93caf831b0c778584406b54",
+   "chars": 3161
+  },
+  {
+   "url": "https://hostalcampana.com/habitaciones-en-toledo/",
+   "sha256": "2e93336d851c58cdb583f68b8f479ac6e06296ac75140f06ee411594b0493387",
+   "chars": 7169
+  },
+  {
+   "url": "https://hostalcampana.com/habitaciones-en-toledo/doble/",
+   "sha256": "54cf507b93af8334f39a30328c1f39520b16b4a745339054664c689e1e08513f",
+   "chars": 5363
+  },
+  {
+   "url": "https://hostalcampana.com/habitaciones-en-toledo/individual/",
+   "sha256": "9782f91bdfc2ae7219766e2d1e7f2b372e1e29f5c913870a6892bacca7581a68",
+   "chars": 5376
+  },
+  {
+   "url": "https://hostalcampana.com/hostal-la-campana-toledo/",
+   "sha256": "1f866767aa8b8124aad85012f77268a7552366e9c822d49d87d08614cd8dab12",
+   "chars": 5609
+  },
+  {
+   "url": "https://hostalcampana.com/reservar-hostal-toledo/",
+   "sha256": "3e2b5f371d6b879b518cefb467f1fef68a30c48bddcbd8c6da7ebdb5f3576b17",
+   "chars": 4609
+  },
+  {
+   "url": "https://hostalcampana.com/servicios-alojamiento-toledo-centro/",
+   "sha256": "4c48708c3e32daa671606770fbaf1e76a0ff6e080cd8e98bd4185c28f16c36e5",
+   "chars": 5133
+  },
+  {
+   "url": "https://hostalcampana.com/terminos-y-condiciones-de-reserva/",
+   "sha256": "e35cf3573642753446069f1979e0de156e24ebad90bad6fcef092b32e20757d5",
+   "chars": 6207
+  }
+ ],
+ "other_pages_read": [
+  "https://hostalcampana.com",
+  "https://hostalcampana.com/blog-visitar-toledo/",
+  "https://hostalcampana.com/blog/40-aniversario-toledo-patrimonio-humanidad/",
+  "https://hostalcampana.com/blog/alojamiento-en-toledo-cerca-de-puy-du-fou/",
+  "https://hostalcampana.com/blog/cuando-es-el-corpus-christi-toledo-2026/",
+  "https://hostalcampana.com/blog/donde-aparcar-en-toledo/",
+  "https://hostalcampana.com/blog/exposicion-800-anos-catedral-de-toledo/",
+  "https://hostalcampana.com/blog/hostal-en-toledo-centro/",
+  "https://hostalcampana.com/blog/que-hacer-en-toledo-en-un-dia/",
+  "https://hostalcampana.com/booking/",
+  "https://hostalcampana.com/habitaciones-en-toledo/doble-confort/",
+  "https://hostalcampana.com/politica-de-cookies/",
+  "https://hostalcampana.com/politica-de-privacidad/",
+  "https://hostalcampana.com/uso-de-ia/"
+ ]
+}
