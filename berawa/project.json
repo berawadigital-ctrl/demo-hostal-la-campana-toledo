@@ -1,0 +1,68 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hostal-la-campana-toledo",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T01:12:00+01:00",
+ "updated_at": "2026-10-29T01:35:00+01:00",
+ "business": {
+  "name": "Hostal La Campana",
+  "legal_name": "HERMANOS VELASCO GALAN, S.L.",
+  "registry_ids": [
+   "CIF B45429313"
+  ],
+  "url": "https://hostalcampana.com/",
+  "domain": "hostalcampana.com",
+  "municipality": "Toledo",
+  "province": "Toledo",
+  "address": "C. Campana, 10 · 45002 Toledo",
+  "phones": [
+   "925 22 16 59"
+  ],
+  "emails": [
+   "info@hostalcampana.com"
+  ],
+  "sector": "hostal en el casco historico"
+ },
+ "rating": {
+  "value": 4.7,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web, direccion)",
+  "url": "https://www.google.com/maps/place/Hostal+La+Campana+Toledo/@39.8570915,-4.027991,17z/data=!4m9!3m8!1s0xd6a0ba77a82a77d:0xac7abb1b6b7c08a6!5m2!4m1!1i2!8m2!3d39.8570915!4d-4.027991!16s%2Fg%2F1wk7035s",
+  "date": "2026-10-29T00:50:18+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": {
+   "es": "https://hostalcampana.com/reservar-hostal-toledo/",
+   "ca": "https://hostalcampana.com/reservar-hostal-toledo/",
+   "en": "https://hostalcampana.com/reservar-hostal-toledo/",
+   "fr": "https://hostalcampana.com/reservar-hostal-toledo/"
+  },
+  "note": "Las reservas van a la pagina de reservas del propio hostal (hostalcampana.com/reservar-hostal-toledo/); la demo no construye ningun motor."
+ },
+ "audit_original": {
+  "url": "https://hostalcampana.com/",
+  "date": "2026-10-29T01:12:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "primer tipo de negocio sin precedente: hostal urbano en el casco historico (el modelo aprobado Cazorla Rural es alojamiento rural)",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
