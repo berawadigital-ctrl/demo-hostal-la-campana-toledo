@@ -2,8 +2,8 @@
  "schema": "berawa-project/1",
  "slug": "demo-hostal-la-campana-toledo",
  "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
- "created_at": "2026-10-29T01:12:00+01:00",
- "updated_at": "2026-10-29T01:35:00+01:00",
+ "created_at": "2026-10-29T01:07:00+01:00",
+ "updated_at": "2026-10-29T01:12:00+01:00",
  "business": {
   "name": "Hostal La Campana",
   "legal_name": "HERMANOS VELASCO GALAN, S.L.",
@@ -56,7 +56,7 @@
  },
  "audit_original": {
   "url": "https://hostalcampana.com/",
-  "date": "2026-10-29T01:12:00+01:00",
+  "date": "2026-10-29T01:07:00+01:00",
   "veredicto": "LCP > 4 s",
   "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
  },

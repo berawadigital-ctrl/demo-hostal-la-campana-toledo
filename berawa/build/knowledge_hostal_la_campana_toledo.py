@@ -1,4 +1,4 @@
-# Base de conocimiento del chatbot. Cada entrada: claves por idioma, respuesta por idioma y fuentes (URL + cita literal de la web del negocio, leida el 29/10/2026 01:15).
+# Base de conocimiento del chatbot. Cada entrada: claves por idioma, respuesta por idioma y fuentes (URL + cita literal de la web del negocio, leida el 29/10/2026 01:08).
 U='https://hostalcampana.com/'
 def E(id,topic,keys,a,src,cta=False): return dict(id=id,topic=topic,keys=keys,a=a,sources=[dict(url=U+u,quote=q) for u,q in src],cta=cta)
 HOME=''; HAB='habitaciones-en-toledo/'; IND=HAB+'individual/'; DBL=HAB+'doble/'; CON=HAB+'doble-confort/'
@@ -66,5 +66,5 @@ E('K13','servicios',
  dict(es='Su web menciona wifi gratuito, servicio diario de limpieza en habitaciones y espacios comunes, cafetería exclusiva para huéspedes con desayuno buffet y tostador exclusivo para personas celiacas.',ca='La seva web esmenta wifi gratuït, servei diari de neteja a habitacions i espais comuns, cafeteria exclusiva per a hostes amb esmorzar bufet i torradora exclusiva per a celíacs.',en='Their website mentions free wifi, daily cleaning of rooms and common areas, a guests-only café with a buffet breakfast and a toaster reserved for coeliacs.',fr='Leur site mentionne le wifi gratuit, le ménage quotidien des chambres et des espaces communs, une cafétéria réservée aux clients avec petit-déjeuner buffet et un grille-pain exclusif pour les personnes cœliaques.'),
  [(SER,'Wifi gratuito Conexión rápida y segura en todos los espacios del hostal'),(SER,'Servicio diario de limpieza en habitaciones y espacios comunes'),(SER,'Disponemos de tostador exclusivo para personas celiacas')]),
 ]
-KB=dict(schema='berawa-knowledge/1',project='demo-hostal-la-campana-toledo',source_site='https://hostalcampana.com/',source_read_at='2026-10-29T01:15:00+01:00',
+KB=dict(schema='berawa-knowledge/1',project='demo-hostal-la-campana-toledo',source_site='https://hostalcampana.com/',source_read_at='2026-10-29T01:08:00+01:00',
  note='Respuestas solo con datos publicados en hostalcampana.com. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.',entries=ENTRIES)

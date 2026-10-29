@@ -65,7 +65,7 @@ D=dict(name='Hostal La Campana',ac='#8a3b2a',ac2='#c28b2c',ac2_a11y='#7a5412',bo
  address='C. Campana, 10 · 45002 Toledo',phones=['925 22 16 59'],emails=['info@hostalcampana.com'],maps='Hostal La Campana, Calle Campana 10, Toledo',t=T)
 META=dict(repo='demo-hostal-la-campana-toledo',name='Hostal La Campana',legal_name='HERMANOS VELASCO GALAN, S.L.',registry_ids=['CIF B45429313'],
  url='https://hostalcampana.com/',domain='hostalcampana.com',municipality='Toledo',province='Toledo',sector='hostal en el casco historico',
- read_at='2026-10-29T01:15:00+01:00',created_at='2026-10-29T01:12:00+01:00',built_at='2026-10-29T01:35:00+01:00',audit_date='2026-10-29T01:12:00+01:00',
+ read_at='2026-10-29T01:08:00+01:00',created_at='2026-10-29T01:07:00+01:00',built_at='2026-10-29T01:12:00+01:00',audit_date='2026-10-29T01:07:00+01:00',
  rating=dict(value=4.7,coincide=['telefono','web','direccion'],date='2026-10-29T00:50:18+01:00',url='https://www.google.com/maps/place/Hostal+La+Campana+Toledo/@39.8570915,-4.027991,17z/data=!4m9!3m8!1s0xd6a0ba77a82a77d:0xac7abb1b6b7c08a6!5m2!4m1!1i2!8m2!3d39.8570915!4d-4.027991!16s%2Fg%2F1wk7035s'),
  book=dict(mode='engine',url=BOOK['url'],note='Las reservas van a la pagina de reservas del propio hostal (hostalcampana.com/reservar-hostal-toledo/); la demo no construye ningun motor.'),
  first_of_type='primer tipo de negocio sin precedente: hostal urbano en el casco historico (el modelo aprobado Cazorla Rural es alojamiento rural)')
